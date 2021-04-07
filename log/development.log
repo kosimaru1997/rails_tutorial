@@ -1,0 +1,42 @@
+Started GET "/" for 126.150.134.225 at 2021-04-07 15:40:53 +0000
+Cannot render console from 126.150.134.225! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (6.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-6.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-6.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 18.0ms | Allocations: 316)
+Completed 200 OK in 34ms (Views: 23.4ms | ActiveRecord: 0.0ms | Allocations: 1740)
+
+
+Started GET "/" for 126.150.134.225 at 2021-04-07 15:40:55 +0000
+Cannot render console from 126.150.134.225! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-6.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-6.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 7.8ms | Allocations: 192)
+Completed 200 OK in 13ms (Views: 10.9ms | ActiveRecord: 0.0ms | Allocations: 829)
+
+
+Started GET "/" for 126.150.134.225 at 2021-04-07 15:40:56 +0000
+Cannot render console from 126.150.134.225! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-6.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.6.3/gems/railties-6.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | Allocations: 8)
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms | Allocations: 330)
+
+
+Started GET "/" for 126.150.134.225 at 2021-04-07 15:54:09 +0000
+Cannot render console from 126.150.134.225! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 12ms (Views: 7.4ms | ActiveRecord: 0.0ms | Allocations: 1211)
+
+
+Started GET "/" for 126.150.134.225 at 2021-04-07 15:54:10 +0000
+Cannot render console from 126.150.134.225! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms | Allocations: 289)
+
+
